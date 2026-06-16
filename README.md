@@ -17,7 +17,7 @@ Je suis un étudiant en informatique qui vient de finir son BUT en alternance.<b
 
 ## 📞 Contact
 
-- **Email:** maxime.point2@etu.uca.fr
+- **Email:** point.maxime1@gmail.com
 - **Tél:** 06·64·51·13·84
 - **Localisation:** Bayonne, Nouvelle-Aquitaine
 - **Âge:** 21 ans | Permis B (véhiculé)
