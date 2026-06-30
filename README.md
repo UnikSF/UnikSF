@@ -55,6 +55,11 @@ Je suis un étudiant en informatique qui vient de finir son BUT en alternance.<b
 
 ## 🚀 Projets Techniques
 
+### 🌐 Apps UnikSF — self-hosted ([live](https://fiddlestalenas.ddns.net))
+- **[Sensitivity Finder](https://github.com/UnikSF/SensitivityFinder)** — calibrateur de sensibilité (aim) par recherche dichotomique. → [demo](https://fiddlestalenas.ddns.net/sensitivity/)
+- **[Finance Watcher](https://github.com/UnikSF/FinanceWatcher)** — budgets, transactions & objectifs financiers. → [demo](https://fiddlestalenas.ddns.net/finance/)
+- **[Mappy](https://github.com/UnikSF/Mappy)** — routage de véhicules & clustering de zones. → [demo](https://fiddlestalenas.ddns.net/mappy/)
+
 ### Pogos Backend – Architecture Complète
 **Stack:** À confirmer | [GitHub: pogos-games/pogos-backend](https://github.com/pogos-games/pogos-backend.git)
 - **Rôle:** Architecte principal — pensée et structuration complète de l'architecture
