@@ -3,7 +3,7 @@ Je suis un étudiant en informatique qui vient de finir son BUT en alternance.<b
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) [![Homelab](https://img.shields.io/badge/Homelab-fiddlestalenas-4f8ef7?logo=icloud&logoColor=white)](https://fiddlestalenas.ddns.net) 
 
 ## 🪪 CV:
 
@@ -87,7 +87,7 @@ Je suis un étudiant en informatique qui vient de finir son BUT en alternance.<b
 - Déploiement Docker sur NAS avec build Termux
 
 ### Infrastructure Self-Hosted (NAS UGREEN)
-**Stack:** Docker, Nginx Proxy Manager, Portainer, Alpine Linux
+**Stack:** Docker, Nginx Proxy Manager, Portainer, Alpine Linux | 🌐 [Live: fiddlestalenas.ddns.net](https://fiddlestalenas.ddns.net)
 - Déploiement Odysseus (4 containers) sur UGOS
 - Configuration Nginx Proxy Manager + Let's Encrypt
 - Cluster services: MariaDB, PostgreSQL, MediaWiki, Moodle
