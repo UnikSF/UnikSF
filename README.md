@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un étudiant en informatique qui vient de finir son BUT en alternance.<br>Actuellement à la recherche d'une alternance pour un Master SIGLIS à Anglet.<br><br>Après 2 ans d'alternance dans deux entreprises différentes, je suis prêt à découvrir de nouveaux horizons. 
+Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et compte me réorienté en 4e année d'école d'ingénieur Au CESI de Pau.<br>Actuellement à la recherche d'une alternance pour 2 ans avec période à l'étranger.<br><br>Après 3 ans d'alternance dans 3 entreprises différentes, je suis prêt à découvrir de nouveaux horizons. 
 
 
 ## 🌐 Socials:
