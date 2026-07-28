@@ -20,7 +20,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 - **Email:** point.maxime1@gmail.com
 - **Tél:** 06·64·51·13·84
 - **Localisation:** Bayonne, Nouvelle-Aquitaine
-- **Âge:** 21 ans | Permis B (véhiculé)
+- **Âge:** 22 ans | Permis B (véhiculé)
 - **Langue:** Anglais B2 (Cambridge)
 
 ---
