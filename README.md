@@ -1,9 +1,9 @@
 # 💫 About Me:
-Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et compte me réorienté en 4e année d'école d'ingénieur Au CESI de Pau.<br>Actuellement à la recherche d'une alternance pour 2 ans avec période à l'étranger.<br><br>Après 3 ans d'alternance dans 3 entreprises différentes, je suis prêt à découvrir de nouveaux horizons. 
+Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et compte me réorienté en 4e année d'école d'ingénieur au CESI de Pau.<br>Actuellement à la recherche d'une alternance pour 2 ans avec période à l'étranger.<br><br>Après 3 ans d'alternance dans 3 entreprises différentes, je suis prêt à découvrir de nouveaux horizons. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) [![Homelab](https://img.shields.io/badge/Homelab-fiddlestalenas-4f8ef7?logo=icloud&logoColor=white)](https://fiddlestalenas.ddns.net) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/Fiddlestale) [![Homelab](https://img.shields.io/badge/Homelab-fiddlestalenas-4f8ef7?logo=icloud&logoColor=white)](https://fiddlestalenas.ddns.net) 
 
 ## 🪪 CV:
 
@@ -29,14 +29,14 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 
 ### Développeur en Alternance – Telerad-Expertise | Anglet
 **2023-2024**
-- Ajout de fonctionnalités sur système embarqué radio (C backend, REST APIs)
-- Développement frontend React pour monitoring et contrôle
-- Architecture en classes et gestion de cache race-conditions
-- Suivi de commandes RX/TX/TRX via Excel et scripts Python/VBA
+- Ajout de fonctionnalités sur système embarqué radio (C backend, API REST)
+- Développement frontend React pour interface de monitoring et contrôle de radio
+- Architecture en classes et gestion des race-conditions
+- Suivi de commandes RX/TX/TRX via Excel et scripts Python
 
 ### Développeur en Alternance – AGEDI | Aurillac
 **2023-2024**
-- Ajout de fonctionnalités backend Java/Kotlin
+- Ajout de fonctionnalités backend Java
 - Développement frontend Angular
 - Intégration APIs et gestion d'état
 
@@ -48,7 +48,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 
 ### CDI Étudiant – Auchan | Aubière
 **2022-2023**
-- Relation client, travail d'équipe, autonomie
+- Relation client, travail d'équipe, autonomie, organisation
 - Découverte du contexte professionnel
 
 ---
@@ -68,7 +68,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 - Projet clé pour démontrer la vision architecturale
 
 ### Monitoring & Control UI (React)
-**Stack:** React, Redux, TypeScript, REST APIs
+**Stack:** React, Redux, TypeScript, API REST
 - Architecture basée sur `CommandClass` et `CommandFactory` (pattern orienté objet)
 - Composants (`CommandBox`, `SelectCommand`, `InputCommand`, `TableCommand`, `ListCommand`)
 - Hook custom `useApi` pour gestion des appels API avec injection de données
@@ -88,7 +88,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 - Optimiseur de routes de livraison (TSP/clustering)
 - Algorithmes KMeans + DBSCAN pour clustering
 - Nearest Neighbor + 2-opt pour routage
-- REST API sur port 8083
+- API REST sur port 8083
 - Déploiement Docker sur NAS avec build Termux
 
 ### Infrastructure Self-Hosted (NAS UGREEN)
@@ -97,6 +97,23 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 - Configuration Nginx Proxy Manager + Let's Encrypt
 - Cluster services: MariaDB, PostgreSQL, MediaWiki, Moodle
 - Gestion certificats et renouvellement automatisé
+
+### Pipeline CI/CD GitLab → NAS
+**Stack:** GitLab CI, GitLab Runner, Docker, Container Registry
+- GitLab Runner conteneurisé en Docker
+- Déploiement automatisé sur le NAS sans exposition de ports entrants
+- Registry de containers privé sur GitLab
+
+### oAsIs
+**Stack:** Bash, Ubuntu 24.04 | [GitHub: UnikSF/oAsIs](https://github.com/UnikSF/oAsIs)
+- Script d'installation d'une appliance IA
+- Gestion dynamique des kernel headers
+- Fallback snap suite au retrait de FreeCAD des dépôts apt
+
+### Électronique DIY
+- ESP32-C3 : bouton-presseur WiFi avec servo, version veille profonde (deep-sleep) en IR
+- Verrou à moteur pas-à-pas NEMA17 : driver DRV8825, boost MT3608 (12V), buck MP1584 (5V)
+- Alimentation LiPo 2S avec BMS, conception sur perfboard
 
 ### RFID Exploration
 - Étude des protocoles 125 kHz (EM4100, HID, T5577) vs 13.56 MHz
@@ -124,8 +141,8 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 ## 🛠️ Compétences Techniques
 
 ### Backend
-- **Langages:** Java, Kotlin, Python, Ruby, C, Rust
-- **Frameworks:** NestJS, Axum, Gin
+- **Langages:** Java, Kotlin, Python, Ruby, C
+- **Frameworks:** NestJS
 
 ### Frontend
 - **Frameworks:** React, Angular, Vue.js
@@ -145,8 +162,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 - GitHub, GitLab, Git workflows
 
 ### Outils & Autres
-- REST APIs, Embedded systems (C, radio)
-- VBA (macros Excel)
+- API REST, Embedded systems (C, radio)
 - Scripting Python
 - Système Linux/Alpine
 
@@ -158,7 +174,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 **Durée:** Contrat 2 ans (2025-2027)  
 **Secteur:** ESN ou Développement (full-stack/backend)  
 **Objectif carrière:** Architecte logiciel  
-**Parcours:** 3ème année école d'ingénieur (CESI Pau ou Polytech)  
+**Parcours:** 4ème année école d'ingénieur (CESI Pau)  
 **Mobilité:** Disponibilité géographique (France + étranger) | Logement flexible selon salaire  
 
 **Ce que je recherche:**
@@ -210,15 +226,9 @@ Ce CV n'est pas qu'une liste de compétences — c'est une cartographie de ma tr
 - Bases du leadership
 - Persévérant
 - À l'écoute
+- Travail en équipe
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat-square&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UnikSF&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UnikSF&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnikSF&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UnikSF&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
