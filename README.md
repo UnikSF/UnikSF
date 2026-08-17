@@ -3,7 +3,7 @@ Je suis un étudiant en informatique qui vient de finir mon Master 1 SIGLIS et c
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/Fiddlestale) [![Homelab](https://img.shields.io/badge/Homelab-fiddlestalenas-4f8ef7?logo=icloud&logoColor=white)](https://fiddlestalenas.ddns.net) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@maxime_point) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-point-63844223b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:point.maxime1@gmail.com) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/Fiddlestale) [![Homelab](https://img.shields.io/badge/Homelab-fiddlestalenas-4f8ef7?logo=icloud&logoColor=white)](https://fiddlestalenas.tailfaa3d4.ts.net/) 
 
 ## 🪪 CV:
 
